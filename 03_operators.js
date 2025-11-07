@@ -17,9 +17,16 @@ console.log(5/10);
 console.log(5%10);
 
 //********************* Assignment operators */
+// = , +=, -=, *=, /=
 
+//*********************Comparision Operators */
+// =, ==, ===, !=, !==, >, <, >=, <=
 
+//********* Logical Opearators */
 
+// &&. !
 
+//***********String Operators */
+// '+'
 
-
+//************ Ternanry Operator */
