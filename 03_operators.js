@@ -24,7 +24,7 @@ console.log(5%10);
 
 //********* Logical Opearators */
 
-// &&. !
+// &&. !, || 
 
 //***********String Operators */
 // '+'
